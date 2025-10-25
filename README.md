@@ -1,6 +1,5 @@
 # Photo Editor Compose 📸
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Android-green.svg)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.5.0-orange.svg)
