@@ -7,12 +7,8 @@
 
 A modern, lightweight photo editing app built with **Jetpack Compose** for Android. Transform your photos with intuitive tools like filters, cropping, and rotation, all wrapped in a sleek, user-friendly interface.
 
-# Demo
+![Demo](https://github.com/user-attachments/assets/4ab9f9b5-041a-4361-bdfd-a293a8019ccc)
 
-<div align="center">
-  <img src="demo/![photo_editor_demo](https://github.com/user-attachments/assets/a39f8e2d-9d2f-477c-92cd-a4ebd674ec23)
-" width="400" alt="Wifi Analyzer Demo"/>
-</div>
 
 ## ✨ Features
 
